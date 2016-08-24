@@ -7,5 +7,6 @@
 ```
 npm install
 DEBUG=angular_express_example:* npm start
+mongod --config /usr/local/etc/mongod.conf
 ```
 
